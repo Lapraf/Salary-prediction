@@ -1,0 +1,2 @@
+Seniority Level,Year,Month (1-12),IT Exports (millions USD),Consumer Price Index (CPI),GDP (millions USD),Prediction Result,timestamp
+Middle,2023,6,853,110.2,200500,Error in prediction: name 'model' is not defined,2025-06-05 12:47:10.140274
